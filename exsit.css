@@ -1,0 +1,66 @@
+.flex-container{
+    background-image: url('othmane.jpeg');
+    height:100vh;
+    background-repeat: no-repeat;
+    width:100%;
+    background-size:cover;
+    background-position:center;
+    justify-content: space-between;
+
+}
+
+
+.nav {
+    
+    width: 50%;
+    display:flex;
+    justify-content: space-between;
+    margin-left: 45%;
+   
+
+}
+
+.nav ul li{
+    display: inline;
+    margin-right:10px;
+    margin-left:10px;
+    
+    
+}
+.nav a {
+    display: inline;
+    text-decoration: none;
+    color:rgb(222, 177, 15);
+    width: 100px;
+  
+    
+}
+.nav a:hover{
+    text-decoration:none;
+    color: rgb(36, 81, 120);
+}
+.A {
+    color:white;
+    font-size: 30px;
+    margin-right:0px;
+}
+.op{
+    display: block;
+    margin: 200px 0px 0px 100px;
+    
+}
+.B {
+    color:white;
+    font-size: 30px;
+    margin-right:100px;
+    width: 160px;
+}
+img{
+    display: inline-block;
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+    margin-top:10px;
+    margin-left:10%;
+  
+}
